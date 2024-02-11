@@ -1,9 +1,3 @@
-JOIN https://t.me/+BaajOtmBRpxlZDA0 for More Private Tools and Methods Like This For Free
-
-================================================================================
-
-Thanks for buying our otpbot sourcecode!
-
 STEPS IN SETTINGS UP BOT:-
 1.Create Account on github and Heroku
 2.Download Github desktop and connect with your account
@@ -33,7 +27,3 @@ where USERNAME -> your github username
 
 
 and finally done if you need help use support option
-
-================================================================================
-
-JOIN  https://t.me/+BaajOtmBRpxlZDA0 for More Private Tools and Methods Like This For Free
